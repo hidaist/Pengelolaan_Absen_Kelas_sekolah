@@ -1,0 +1,4 @@
+2026/08/13-10:01:30.417 1898 Creating DB C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\shared_proto_db\metadata since it was missing.
+2026/08/13-10:01:30.444 1898 Reusing MANIFEST C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/13-10:01:30.492 1898 Recovering log #3
+2026/08/13-10:01:30.493 1898 Reusing old log C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\shared_proto_db\metadata/000003.log 

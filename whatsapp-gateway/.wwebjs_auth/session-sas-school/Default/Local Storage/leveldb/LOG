@@ -1,0 +1,8 @@
+2026/08/13-10:01:31.471 2964 Creating DB C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Local Storage\leveldb since it was missing.
+2026/08/13-10:01:31.929 2964 Reusing MANIFEST C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/13-10:01:32.043 2964 Recovering log #4
+2026/08/13-10:01:32.123 2964 Reusing old log C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Local Storage\leveldb/000004.log 
+2026/08/13-10:01:32.127 2964 Delete type=2 #5
+2026/08/13-10:02:33.796 11a4 Level-0 table #6: started
+2026/08/13-10:02:33.890 11a4 Level-0 table #6: 20193 bytes OK
+2026/08/13-10:02:33.945 11a4 Delete type=0 #4

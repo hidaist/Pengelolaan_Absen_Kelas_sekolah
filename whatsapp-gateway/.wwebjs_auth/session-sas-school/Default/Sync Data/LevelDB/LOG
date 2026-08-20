@@ -1,0 +1,4 @@
+2026/08/13-10:01:30.309 4b8 Creating DB C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Sync Data\LevelDB since it was missing.
+2026/08/13-10:01:30.458 4b8 Reusing MANIFEST C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/13-10:01:30.502 4b8 Recovering log #3
+2026/08/13-10:01:30.503 4b8 Reusing old log C:\laragon\www\allprog\RahmaniaNoDes\whatsapp-gateway\.wwebjs_auth\session-sas-school\Default\Sync Data\LevelDB/000003.log 
